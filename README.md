@@ -1,0 +1,2 @@
+# simple
+Simple C++ project
